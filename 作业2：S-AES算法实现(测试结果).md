@@ -12,7 +12,7 @@
 
    ​	随机输入一个明文（**P=1100100101000111**）和密钥（**K=0010110101010101**）
 
-   ![](C:\Users\12988\Desktop\Senior4\信息安全导论\Homework\task2\Gif\level1_encode.gif)
+   ![](Gif\level1_encode.gif)
 
    ​	得到密文（**C=1010011001111101**）
 
