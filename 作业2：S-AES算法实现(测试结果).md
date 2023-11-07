@@ -12,7 +12,7 @@
 
    ​	随机输入一个明文（**P=1100100101000111**）和密钥（**K=0010110101010101**）
 
-   ![](Gif\level1_encode.gif)
+   ![](Gif/level1_encode.gif)
 
    ​	得到密文（**C=1010011001111101**）
 
@@ -56,7 +56,7 @@
 
    ​	随机输入一个字符串（**P="Hello World"**）和密钥（**K=0010110101010101**）
 
-   ![](C:/Users/12988/Desktop/Senior4/信息安全导论/Homework/task2/Gif/level3_encode.gif)
+   ![](Gif/level3_encode.gif)
    
    ​	得到密文（**C="渖ᴩ责责뫁퉌Ⅿ责ഢ"**）
    
@@ -64,7 +64,7 @@
 
     ​	输入第一步中加密得到的字符串（**C="渖ᴩ责责뫁퉌Ⅿ责ഢ"**）和密钥（**K=0010110101010101**）
 
-    ![](C:/Users/12988/Desktop/Senior4/信息安全导论/Homework/task2/Gif/level3_decode.gif)
+    ![](Gif/level3_decode.gif)
 
     ​	得到与第一步相同的明文（**P="Hello World"**）
 
